@@ -19,6 +19,6 @@ The number of rounds depends on the key length as follows :
 A Key Schedule algorithm is used to calculate all the round keys from the key. So the initial key is used to create many different round keys which will be used in the corresponding round of the encryption.
 
 ## Resources for the Math behind AES (you should do it too.)
-- [S-block substitution on which the Rijndael cipher is based; used in AES](.https://en.wikipedia.org/wiki/Rijndael_S-box#Example_implementation_in_C_language)
-- [Round-constants](.https://en.wikipedia.org/wiki/AES_key_schedule#Round_constants)
+- [S-block substitution on which the Rijndael cipher is based; used in AES](https://en.wikipedia.org/wiki/Rijndael_S-box#Example_implementation_in_C_language)
+- [Round-constants](https://en.wikipedia.org/wiki/AES_key_schedule#Round_constants)
 
