@@ -1,6 +1,6 @@
 /*
 this header file includes algorithm for expanding our key 
-so that we can use our key foe 10 rounds
+so that we can use our key for 10 rounds
 */
 #ifndef KEY_EXPAND_H_INCLUDED
 #define KEY_EXPAND_H_INCLUDED
